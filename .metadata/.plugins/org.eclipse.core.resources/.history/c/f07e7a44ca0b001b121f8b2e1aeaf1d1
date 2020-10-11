@@ -1,0 +1,16 @@
+package test;
+
+import junit.framework.TestCase;
+
+public class MyTestCase extends TestCase {
+
+	public MyTestCase() {
+		// TODO Auto-generated constructor stub
+	}
+
+	public MyTestCase(String name) {
+		super(name);
+		// TODO Auto-generated constructor stub
+	}
+
+}
