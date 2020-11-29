@@ -1,0 +1,13 @@
+
+public class TestRunner {
+
+	public static void main(String[] args) {
+		CalculatorTest test = new CalculatorTest();
+		test.testAveragePower();
+		test.testAverageSignalResponses();
+		test.testDynamicSignalDiapason();
+		test.testEnergy();
+		test.testResponsesValueDispersion();
+	}
+
+}

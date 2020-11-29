@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<watchExpressions>\r\n    <expression enabled\="true" text\="1 / (this._signals.length - t) * 4518840.731962559"/>\r\n    <expression enabled\="true" text\="this._signals.length"/>\r\n</watchExpressions>\r\n
